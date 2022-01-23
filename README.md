@@ -1,7 +1,8 @@
 A simple script to generate and verify free mega.nz accounts in seconds.
 
 instructions:
-```git clone https://github.com/crackhub-dev/mega-account-generator.git
+```
+git clone https://github.com/crackhub-dev/mega-account-generator.git
 cd mega-account-generator
 npm i
 node .
